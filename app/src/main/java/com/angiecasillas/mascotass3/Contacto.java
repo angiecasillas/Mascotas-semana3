@@ -1,0 +1,47 @@
+package com.angiecasillas.mascotass3;
+
+/**
+ * Created by Usuario on 25/09/2016.
+ */
+
+public class Contacto {
+
+    private String nombre;
+    private String rating;
+    private int foto;
+
+
+    public Contacto(String nombre, String rating, int foto) {
+
+        this.nombre = nombre;
+        this.rating = rating;
+        this.foto = foto;
+
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getRating() {
+        return rating;
+    }
+
+    public void setRating(String rating) {
+        this.rating = rating;
+    }
+
+    public int getFoto() {
+        return foto;
+    }
+
+    public void setFoto(int foto) {
+        this.foto = foto;
+    }
+
+}
+

@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top">25dp</dimen>
+    <dimen name="left">16dp</dimen>
+    <dimen name="corner_radius_cardView">4dp</dimen>
+    <dimen name="nombre_cardview">20dp</dimen>
+    <dimen name="elevation_appBar">4dp</dimen>
+    <dimen name="tv_appBar">22dp</dimen>
+</resources>

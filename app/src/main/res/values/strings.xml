@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Teléfono</string>
+    <string name="pemail">Email</string>
+    <string name="mo_contacto">Contácto</string>
+    <string name="mo_about">Acerca de</string>
+    <string name="button_next">Siguiente</string>
+</resources>
